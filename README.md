@@ -25,7 +25,7 @@ _The repository contains two folders named **Unnbalanced Data** and **Balanced D
 
 ## Exploratory Data Analysis
 
-For this case I used dimensionality reduction techniques in order to graph the dispersion of the 6 classed in 2 dimensions, such as **PCA** and **TSNE**.
+For this case I used dimensionality reduction techniques in order to graph the dispersion of the 6 classes in 2 dimensions, such as **PCA** and **TSNE**.
 
 ## PCA
 ![pca](https://user-images.githubusercontent.com/63115543/92185644-12c9d900-ee1a-11ea-9920-1c368a2a288d.jpg)
